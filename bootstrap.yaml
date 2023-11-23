@@ -1,0 +1,4 @@
+Discovery:
+  Host: localhost
+  Port: 9999
+  ConfigName: gateConfig
